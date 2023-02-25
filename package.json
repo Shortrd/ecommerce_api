@@ -1,0 +1,20 @@
+{
+  "name": "ecommerce_api",
+  "version": "1.0.0",
+  "description": "a RESTful api for a generic e-commerce website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shortrd/ecommerce_api.git"
+  },
+  "author": "Ryan Short",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shortrd/ecommerce_api/issues"
+  },
+  "homepage": "https://github.com/Shortrd/ecommerce_api#readme"
+}
